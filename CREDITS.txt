@@ -1,0 +1,22 @@
+DCC Content Credits
+-------------------
+
+Design and Writing: Joseph Goodman
+Additional Design: Tavis Allison, Andy Frielink, Todd Kath, Doug Kovacs, Harley Stroh, Steven Thiverge, Dieter Zimmerman
+Additional Writing: Michael Curtis, Harley Stroh, Dieter Zimmerman
+Editing: Aeryn "Blackdirge" Rudel
+5th Print Proofing/Editing: Terry Olson, Jen Brinkman
+Art Direction and Graphic Design: Joseph Goodman
+Additional Graphic Design: Matt Hildebrand
+Cover Art: Doug Kovacs (blue, foil), and Peter Mullen (LE)
+Endsheets: Doug Kovacs (front), Peter Mullen (back)
+Interior Art: Jeff Dee, Jeff Easley, Jason Edwards, Tom Galambos, Friedrich Haas, Jim Holloway, Doug Kovacs, Diesel Laforce, William McAusland, Brad McDevitt, Jesse Mohn, Peter Mullen, Russ Nicholson, Erol Otus, Stefan Poag, Jim Roslof, Chad Sergesketter, Chuck Whelon, Mike Wilson
+
+Special thanks for Doug and Harley for joining me on the expedition out of the underdark.
+
+
+Foundry VTT Conversion Credits
+------------------------------
+Steve Barnett, Christian Ovsenik, Tim L. White
+Some icon art from game-icons.net
+Some icon art from the DCC Core Book

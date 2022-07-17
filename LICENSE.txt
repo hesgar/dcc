@@ -1,0 +1,9 @@
+The content of this Foundry VTT module and DCC RPG are © 2012 Goodman Games.
+
+Dungeon Crawl Classics is a trademark of Goodman Games.
+
+DCC RPG is published under the Open Game License, refer to OGL.txt for additional information.
+
+Foundry Virtual Tabletop © 2019, Foundry Gaming LLC.
+
+This module is not free, and cannot be redistributed without a specific software license key for this module.
