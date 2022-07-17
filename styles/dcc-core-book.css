@@ -1,0 +1,27 @@
+/* ----------------------------------------- */
+/*  Welcome Dialog styles                    */
+/* ----------------------------------------- */
+#core-book-welcome-dialog h1 {
+  font-family: "DuvallSmallCaps", "Palatino Linotype", serif; }
+
+#core-book-welcome-dialog form {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column; }
+
+#core-book-welcome-dialog div.credits {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column; }
+
+#core-book-welcome-dialog div.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+  #core-book-welcome-dialog div.logo-container img.dcc-logo {
+    border: 0; }
+
+#core-book-welcome-dialog div.dcc-copyright {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column; }
